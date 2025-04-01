@@ -1,0 +1,64 @@
+LÓGICA
+
+Problema 1: Você precisa retirar exatamente 7 litros de água de uma bica, com esses baldes (um de 5 litros e outro de 3 litros). Como fazer isto?
+Enche um balde de 5 L e depois pega com o de 3L a água dentro dele; logo após pega o balde de 3 L e joga na bica; depois os 2 L que sobraram no balde de 5L, joga no de 3L; e novamente enche o balde de cinco, assim somará 7L.
+
+Problema 2: Com os mesmos baldes, diga como fazer para retirar exatamente 4 litros de água da mesma bica.
+Enche um balde de 3L e depois despeja no de 5L, logo após enche novamente o balde de 3L e despeja no de cinco (vai sobrar 1L no de 3L); depois esvazia o de 5L, joga o 1L que sobrou (no de 3L) dentro do de 5L, depois enche o de 3L de novo e enche o de cinco, assim completaria 4L.
+
+O lobo e a ovelha
+Pego a ovelha e levo pro outro lado; depois pego a couve levo para o outro lado, busco a ovelha de novo, deixo na onde o lobo estava e pego o lobo para ir no outro lado. Depois só pego a ovelha novamente.
+
+SEQUÊNCIA
+Seu desafio é criar um passo a passo em que orienta qualquer pessoa a preparar um café simples:
+
+Vá a cozinha;
+Pegue um recipiente para ferver água;
+Coloque água no recipiente;
+Coloque açúcar na água;
+Ponha na boca do fogão para ferver;
+Pegue a garrafa de café;
+Pegue o coador e coloque na garrafa;
+Pegue o filtro e coloque no coador;
+Pegue o café e coloque dentro do filtro;
+Pegue a água fervida e jogue dentro do filtro;
+Tampe a garrafa de café logo após acabar de coar tudo;
+Pegue a xícara;
+Coloque o café na xícara.
+
+SELEÇÃO/CONDIÇÃO
+
+Ir para um clube de piscina: 
+Verifique a previsão do tempo.
+Se a previsão ser um dia chuvoso:
+Eu vou pegar um cobertor e ver uma série.
+Senão, se a previsão ser um dia nublado:
+Eu vou ficar em casa mexendo no meu celular ou eu irei ao clube, mas não entrarei na piscina.
+Senão, se a previsão ser um dia ensolarado:
+Vou por minha roupa de banho e vou para o clube.
+
+REPETIÇÃO
+Faça um algoritmo que descreva todos seus passos desde o momento que acorda até chegar á escola. Adicione ao menos duas decisões e uma repetição neste algoritimo.
+
+Levanto da minha cama;
+Escovo os dentes;
+Vou tomar banho;
+Coloco meu uniforme;
+Coloco a calça jeans;
+Coloco a meia;
+Calço o meu tênis;
+Me maquio;
+Se houver tempo, encho minha garrafinha;
+Pego minha mochila; 
+Abro o portão;
+Fecho o portão;
+Ando reto até a portaria;
+Continuo andando reto até uma rua dupla;
+Viro à esquerda;
+Vou reto;
+Viro à direita;
+Vou reto até chegar na escola.
+
+
+
+
