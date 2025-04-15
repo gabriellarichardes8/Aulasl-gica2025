@@ -37,5 +37,9 @@ function CabecalhoEscola (nomeEscola) {
 
     let valor = Media(5, 8);
 
+    function Dobro (n1, n2){
+        console.log(n1 + n2);
+    }
+
 
     
